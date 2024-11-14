@@ -79,9 +79,9 @@ I'm a Computer Science student at Ho Chi Minh City University of Technology (HCM
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Sell-Course-Project-API&theme=radical)](https://github.com/phihung0131/Sell-Course-Project-API)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Simple-Torrent-Application&theme=radical)](https://github.com/phihung0131/Simple-Torrent-Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Path-Finding-AStart-Algorithm&theme=radical)](https://github.com/phihung0131/HCMUT-Chat-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Path-Finding-AStart-Algorithm&theme=radical)](https://github.com/phihung0131/Path-Finding-AStart-Algorithm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Days-Of-Love-Counter&theme=radical)](https://github.com/phihung0131/Simple-Torrent-Application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phihung0131&repo=Days-Of-Love-Counter&theme=radical)](https://github.com/phihung0131/Days-Of-Love-Counter)
 
 </div>
 
